@@ -1,1 +1,1 @@
-# Three.js Game Project
+# Three.js Game Project.
